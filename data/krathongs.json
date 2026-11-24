@@ -1,0 +1,129 @@
+[
+  {
+    "krathong_id": "k-1795532143223-ptn2r",
+    "sender_name": "pe",
+    "wish_message": "ขอขมาพระแม่คงคา สุขภาพแข็งแรง มีแต่สิ่งดีๆ",
+    "location_type": "preset",
+    "location_name": "ยอดอ่าวเชียงใหม่ (ริมแม่น้ำปิง)",
+    "krathong_model_type": "preset_b",
+    "color": "#ec4899",
+    "scanned_texture": null,
+    "created_at": "2026-11-24T14:55:43.223Z",
+    "likes": 1,
+    "position": {
+      "x": 0.36785522266081383,
+      "y": 0,
+      "z": -5.611712113850355
+    },
+    "speed": 0.08730447731674193,
+    "room": "my-family"
+  },
+  {
+    "krathong_id": "seed-1",
+    "sender_name": "อาร์ม",
+    "wish_message": "ขอขมาพระแม่คงคา ขอให้ปีนี้มีแต่ความสุข ครอบครัวสุขภาพแข็งแรง ก้าวหน้าในหน้าที่การงาน",
+    "location_type": "preset",
+    "location_name": "แม่น้ำเจ้าพระยา (หน้าวัดอรุณฯ)",
+    "krathong_model_type": "preset_a",
+    "color": "#15803d",
+    "created_at": "2026-11-24T19:30:00.000Z",
+    "likes": 28,
+    "position": {
+      "x": -4.2,
+      "y": 0,
+      "z": -12.5
+    },
+    "speed": 0.08,
+    "room": "default"
+  },
+  {
+    "krathong_id": "seed-2",
+    "sender_name": "ปิ่น",
+    "wish_message": "ขอให้สิ่งไม่ดีลอยไปกับสายน้ำ เริ่มต้นชีวิตใหม่สดใส มีพลังใจในทุกๆ วัน สาธุ",
+    "location_type": "preset",
+    "location_name": "ยอดอ่าวเชียงใหม่ (ริมแม่น้ำปิง)",
+    "krathong_model_type": "preset_b",
+    "color": "#ec4899",
+    "created_at": "2026-11-24T19:45:00.000Z",
+    "likes": 42,
+    "position": {
+      "x": 2.8,
+      "y": 0,
+      "z": -15.2
+    },
+    "speed": 0.07,
+    "room": "default"
+  },
+  {
+    "krathong_id": "seed-3",
+    "sender_name": "วอง",
+    "wish_message": "ขอให้สอบผ่านโปรเจกต์ใหญ่ ได้เกรดดีๆ และได้ไปเที่ยวกับเพื่อนอย่างมีความสุข",
+    "location_type": "preset",
+    "location_name": "สระน้ำจุฬาลงกรณ์มหาวิทยาลัย",
+    "krathong_model_type": "preset_c",
+    "color": "#d97706",
+    "created_at": "2026-11-24T20:10:00.000Z",
+    "likes": 19,
+    "position": {
+      "x": -1.5,
+      "y": 0,
+      "z": -8
+    },
+    "speed": 0.09,
+    "room": "default"
+  },
+  {
+    "krathong_id": "seed-4",
+    "sender_name": "ฟ้าใส & ต้น",
+    "wish_message": "ขอให้ความรักยืนยาว สุขสงบ และแม่น้ำคงคาได้รับความเคารพจากพวกเราทุกคน",
+    "location_type": "preset",
+    "location_name": "อุทยานประวัติศาสตร์สุโขทัย",
+    "krathong_model_type": "preset_d",
+    "color": "#eab308",
+    "created_at": "2026-11-24T20:25:00.000Z",
+    "likes": 56,
+    "position": {
+      "x": 6,
+      "y": 0,
+      "z": -18.4
+    },
+    "speed": 0.065,
+    "room": "default"
+  },
+  {
+    "krathong_id": "seed-5",
+    "sender_name": "ณภัทร",
+    "wish_message": "ขอขมาสายน้ำที่ได้ใช้สอยตลอดปี ขอความร่มเย็นและปัญญาอันแจ่มใสจงบังเกิดแก่ทุกคน",
+    "location_type": "preset",
+    "location_name": "แม่น้ำเจ้าพระยา (ท่าเตียน)",
+    "krathong_model_type": "preset_a",
+    "color": "#047857",
+    "created_at": "2026-11-24T20:40:00.000Z",
+    "likes": 15,
+    "position": {
+      "x": -7.5,
+      "y": 0,
+      "z": -22
+    },
+    "speed": 0.06,
+    "room": "default"
+  },
+  {
+    "krathong_id": "seed-6",
+    "sender_name": "มินท์",
+    "wish_message": "Loy Krathong 2026 ✨ ขอให้ทุกความฝันเบ่งบานเหมือนดอกบัว และจิตใจสว่างไสวดั่งแสงเทียน",
+    "location_type": "preset",
+    "location_name": "บึงพลาญชัย ร้อยเอ็ด",
+    "krathong_model_type": "preset_b",
+    "color": "#f43f5e",
+    "created_at": "2026-11-24T20:55:00.000Z",
+    "likes": 31,
+    "position": {
+      "x": 4.5,
+      "y": 0,
+      "z": -26
+    },
+    "speed": 0.055,
+    "room": "default"
+  }
+]
